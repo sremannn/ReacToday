@@ -29,6 +29,13 @@ h2{
     color: #ff2f00;;
 }
 
+p{
+    color: white;
+    text-align: center;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 10px;
+}
+
 a{
     color: white;
     text-decoration: none;
