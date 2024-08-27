@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
+body{
+    background-color: black;
+    font-family: "Major Mono Display", monospace;
+    scroll-behavior: smooth;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 24px;
+}
+
+h2{
+    color: rgb(68, 68, 68);;
+    text-align: center;
+    font-size: 13px;
+    font-family: "JetBrains Mono", monospace;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: 0px;
+    line-height: 1.2em;
+    text-transform: uppercase;
+}
+
+.regi h2 a{
+    color: #ff2f00;;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+::selection {
+    color: #00FFA3;
+    background: #042620;
+}
