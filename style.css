@@ -20,28 +20,28 @@ body{
 h1{
     color: rgb(0 87 255);
     text-align: center;
-    font-size: 105px;
+    font-size: 44px;
     font-family: "Major Mono Display", monospace;
     font-style: normal;
     font-weight: 900;
-}
-
-h2{
-    color: white;
-    text-align: center;
-    font-size: 24px;
-    font-family: "JetBrains Mono", monospace;
-    font-style: normal;
-    font-weight: 100;
 }
 
 .cs h2{
     color: rgb(0 87 255);
     text-align: center;
-    font-size: 70px;
+    font-size: 30px;
     font-family: "Major Mono Display", monospace;
     font-style: normal;
     font-weight: 900;
+}
+
+.des p{
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    font-family: "JetBrains Mono", monospace;
+    font-style: normal;
+    font-weight: 100;
 }
 
 .links p{
