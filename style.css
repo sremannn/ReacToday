@@ -3,42 +3,71 @@
 
 body{
     background-color: black;
-    font-family: "Major Mono Display", monospace;
     scroll-behavior: smooth;
+    line-height: 13px;
+}
+
+.pic img {
+	margin: left;
+	height: 350px;
+	width: -20px;
+    margin-top: -150px;
+    margin-bottom: -150px;
+    margin-left: -70px;
+	align-items: left;
 }
 
 h1{
-    color: white;
+    color: rgb(0 87 255);
     text-align: center;
-    font-size: 24px;
+    font-size: 105px;
+    font-family: "Major Mono Display", monospace;
+    font-style: normal;
+    font-weight: 900;
 }
 
 h2{
-    color: rgb(68, 68, 68);;
+    color: white;
     text-align: center;
-    font-size: 13px;
+    font-size: 24px;
     font-family: "JetBrains Mono", monospace;
     font-style: normal;
-    font-weight: 500;
-    letter-spacing: 0px;
-    line-height: 1.2em;
-    text-transform: uppercase;
+    font-weight: 100;
 }
 
-.regi h2 a{
-    color: #ff2f00;;
+.cs h2{
+    color: rgb(0 87 255);
+    text-align: center;
+    font-size: 70px;
+    font-family: "Major Mono Display", monospace;
+    font-style: normal;
+    font-weight: 900;
+}
+
+.links p{
+    color: white;
+    text-align: left;
+    font-size: 16px;
+    font-family: "JetBrains Mono", monospace;
+    font-style: normal;
+    font-weight: 100;
 }
 
 p{
     color: white;
     text-align: center;
+    font-size: 16px;
     font-family: "JetBrains Mono", monospace;
-    font-size: 10px;
+    font-style: normal;
+    font-weight: 100;
 }
 
 a{
-    color: white;
+    color: rgb(0 87 255);
     text-decoration: none;
+    font-family: "JetBrains Mono", monospace;
+    font-style: normal;
+    font-weight: 100;
 }
 
 ::selection {
