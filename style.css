@@ -52,10 +52,18 @@ h1{
     font-weight: 100;
 }
 
+.footer p{
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    font-family: "JetBrains Mono", monospace;
+    font-style: normal;
+    font-weight: 100;
+
 p{
     color: white;
     text-align: center;
-    font-size: 14px;
+    font-size: 16px;
     font-family: "JetBrains Mono", monospace;
     font-style: normal;
     font-weight: 100;
